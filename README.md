@@ -1,1 +1,1 @@
-# data-homework
+# publishing-demo

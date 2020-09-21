@@ -1,0 +1,33 @@
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #85CF87;
+}
+
+h1 {
+    font-size: 20px
+}
+
+.background-text-box {
+    /*blue*/
+    background-color: #1ED6D6
+}
+
+figcaption {
+    color: #9CA1A4
+}
+
+p {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+li {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
