@@ -1,12 +1,13 @@
 body {
     margin-left: 200px;
     margin-right: 200px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Georgia', serif;
     background-color: #85CF87;
 }
 
 h1 {
-    font-size: 20px
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 .background-text-box {
@@ -30,4 +31,8 @@ li {
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
+}
+
+h6 {
+    color: gray;
 }
